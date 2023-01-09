@@ -20,7 +20,7 @@ Growth mindset is a state of mind that suggests that most basic abilities can be
 
 **Always Remember**
 
-- Embrace chalanges
+- Embrace challanges
 - Preserve in the face of failure 
 - Talent and abilities can be developed 
 
