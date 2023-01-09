@@ -24,4 +24,3 @@ Growth mindset is a state of mind that suggests that most basic abilities can be
 - Preserve in the face of failure 
 - Talent and abilities can be developed 
 
-[Link to my github portfolio](https://github.com/Curryfrom3)
