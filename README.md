@@ -7,4 +7,4 @@ Here is my interpretation of growth mindset
 - Reminder 2
 - Reminder 3
 
-Link to my github: https://github.com/Curryfrom3
+[Link to my github portfolio](https://github.com/Curryfrom3)
