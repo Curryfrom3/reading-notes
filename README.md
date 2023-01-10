@@ -12,6 +12,9 @@ Hello, my name is Deon Curry and I am a Navy veteran from Florida. I have a pass
 
 Class 102 notes
 
+<details>
+  <summary>Click me</summary>
+
 [Read: 01 - Learning Markdown](class102/class1.md)
 
 [Read: 02 - The Coder's Computer](class102/class2.md)
@@ -28,7 +31,12 @@ Class 102 notes
 
 [Read: 08 - Operators and Loops](class102/class8.md)
 
+</details>
+
 Class 201
+
+<details>
+  <summary>Click me</summary>
 
 [Reading 1](class201/lesson1.md)
 
@@ -59,3 +67,5 @@ Class 201
 [Reading 14](class201/lesson14.md)
 
 [Reading 15](class201/lesson15.md)
+
+</details>
