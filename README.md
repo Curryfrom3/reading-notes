@@ -1,6 +1,6 @@
 # Reading-Notes
 
-
+![navy veteran seal](https://m.media-amazon.com/images/I/71vbu4H4VeL.jpg)
 
 ###### About Me
 
@@ -20,11 +20,10 @@ Growth mindset is a state of mind that suggests that most basic abilities can be
 - Preserve in the face of failure 
 - Talent and abilities can be developed 
 
-<details><summary>Notes</summary>
+<details><summary>Click Me</summary>
 <p>
 
-[Learning Markdown](
-
+[Things I Want To Know More About](https://Curryfrom3.github.io/Things-I-want-to-know-more-about/)
 
 
 ```ruby
