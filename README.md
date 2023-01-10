@@ -23,5 +23,6 @@ Growth mindset is a state of mind that suggests that most basic abilities can be
 <details>
 <summary>Click Me</summary>
 
-* [Things I Want To Know More About](https://Curryfrom3.github.io/Things-I-want-to-know-more-about/)
+<a href="https://Curryfrom3.github.io/Things-I-want-to-know-more-about/">Things I Want To Know More About</a>
 </details>
+
