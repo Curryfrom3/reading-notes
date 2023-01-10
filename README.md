@@ -2,27 +2,28 @@
 
 ![navy veteran seal](https://m.media-amazon.com/images/I/71vbu4H4VeL.jpg)
 
-###### About Me
+## About Me
 
-Hello my name is Deon Curry, I am a USN veteran and inspiring software developer. 
+Hello my name is Deon Curry, I am a USN veteran and inspiring software developer.
 
 [Link to my github portfolio](https://github.com/Curryfrom3)
 
-###### Lab: 01b - Learning Markdown
+## Table of content
 
-Here is my *interpretation* of growth mindset
+Class 102 notes
 
-Growth mindset is a state of mind that suggests that most basic abilities can be developed through dedication and hard work
+-[Read: 01 - Learning Markdown](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class1)
 
-**Always Remember**
+-[Read: 02 - The Coder's Computer](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class2)
 
-- Embrace challanges
-- Preserve in the face of failure 
-- Talent and abilities can be developed 
+-[Read: 03 - Revisions and the Cloud](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class3)
 
-<details>
-<summary>Click Me</summary>
+-[Read: 04 - Structure web pages with HTML](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class4)
 
-<a href="https://Curryfrom3.github.io/Things-I-want-to-know-more-about/">Things I Want To Know More About</a>
-</details>
+-[Read: 05 - Design web pages with CSS](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class5)
 
+-[Read: 06 - Dynamic web pages with JavaScript](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class6)
+
+-[Read: 07 - Programming with JavaScript](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class7)
+
+-[Read: 08 - Operators and Loops](https://curryfrom3.github.io/Things-I-want-to-know-more-about/class8)
