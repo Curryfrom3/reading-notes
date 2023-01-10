@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello my name is Deon Curry, I am a USN veteran and inspiring software developer.
+Hello, my name is Deon Curry and I am a Navy veteran from Florida. I have a passion for gaming and am currently pursuing a career as a software engineer. I am excited to learn new technologies and am eager to apply my skills to create innovative and efficient solutions.
 
 [Link to my github portfolio](https://github.com/Curryfrom3)
 
