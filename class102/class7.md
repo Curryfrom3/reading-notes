@@ -1,4 +1,5 @@
 # Reading 7
+
 Functions in JS are blocks of code that can be reused throughout a program. 
 They are defined using the "function" keyword, followed by a function name, and a set of parentheses that may contain parameters.
  Functions are invoked, or called, using the function name followed by parentheses. 

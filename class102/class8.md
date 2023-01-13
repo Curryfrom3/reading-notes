@@ -1,5 +1,6 @@
 # Reading 8
 
+
 In JavaScript, loops are used to repeatedly execute a block of code for a certain number of times or until a certain condition is met. 
 There are several types of loops in JS, including:
 
