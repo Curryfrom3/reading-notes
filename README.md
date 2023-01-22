@@ -2,33 +2,51 @@
 
 ![navy veteran seal](https://m.media-amazon.com/images/I/71vbu4H4VeL.jpg)
 
-## About Me
+## About this website 
 
-Hello, my name is Deon Curry and I am a Navy veteran from Florida. I have a passion for gaming and am currently pursuing a career as a software engineer. I am excited to learn new technologies and am eager to apply my skills to create innovative and efficient solutions.
+This website is a collection of my reading notes documenting my learning
+ 
+  journey in the field of software development. The notes cover a wide 
+  
+  range of topics related to software development, including programming 
+ 
+ languages, software design, software development methodologies, and 
+ 
+ software development tools. The website is designed to be a resource for 
+ 
+ those who are interested in learning more about software development, and 
+ 
+ the notes provide a detailed and informative look at the various aspects 
+ 
+ of the field. The website also serves as a personal journal of my journey, 
+ 
+ allowing me to reflect on what I have learned and how I have grown as a 
+ 
+ software developer.
 
 [Link to my github portfolio](https://github.com/Curryfrom3)
 
-## Table of content
+### <mark>Table of content
 
-Class 102 notes
+## Code 102 - Intro to Software Development
 
-[Read: 01 - Learning Markdown](class102/class1.md)
+1. [Read: 01 - Learning Markdown](class102/class1.md)
 
-[Read: 02 - The Coder's Computer](class102/class2.md)
+2. [Read: 02 - The Coder's Computer](class102/class2.md)
 
-[Read: 03 - Revisions and the Cloud](class102/class3.md)
+3. [Read: 03 - Revisions and the Cloud](class102/class3.md)
 
-[Read: 04 - Structure web pages with HTML](class102/class4.md)
+4. [Read: 04 - Structure web pages with HTML](class102/class4.md)
 
-[Read: 05 - Design web pages with CSS](class102/class5.md)
+5. [Read: 05 - Design web pages with CSS](class102/class5.md)
 
-[Read: 06 - Dynamic web pages with JavaScript](class102/class6.md)
+6. [Read: 06 - Dynamic web pages with JavaScript](class102/class6.md)
 
-[Read: 07 - Programming with JavaScript](class102/class7.md)
+7. [Read: 07 - Programming with JavaScript](class102/class7.md)
 
-[Read: 08 - Operators and Loops](class102/class8.md)
+8. [Read: 08 - Operators and Loops](class102/class8.md)
 
-Class 201
+## Code 201 - Foundations of Software Development
 
 [Reading 1](class201/lesson1.md)
 
@@ -59,3 +77,7 @@ Class 201
 [Reading 14](class201/lesson14.md)
 
 [Reading 15](class201/lesson15.md)
+
+## Code 301 - Intermediate Software 
+
+## Code 401 - Advanced Software Development
