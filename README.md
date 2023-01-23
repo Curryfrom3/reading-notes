@@ -1,6 +1,6 @@
 # Reading-Notes
 
-![navy veteran seal](https://m.media-amazon.com/images/I/71vbu4H4VeL.jpg)
+![navy veteran seal](https://images.ctfassets.net/k428n7s2pxlu/1YGKzTaLSr9bTZAB0Etw1c/edebbd5115a7486550bfeceaa546c1a8/cf_october-blog_header.jpg)
 
 ## About this website 
 
