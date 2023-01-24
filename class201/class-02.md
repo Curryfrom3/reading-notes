@@ -160,12 +160,12 @@ Strict equality operator (===): This operator compares two values for both equal
 
 ### What is the difference between the logical operator && and ||?
 
- the difference between the logical operator "&&" and "||" is that the "&&" operator requires both conditions to be true to return true, while the "||" operator requires only one of the conditions to be true to return true. The "&&" operator is used to check if both conditions are true, and the "||" operator is used to check if at least one of the conditions is true.
+ the difference between the logical operator &&" and ||" is that the "&&" operator requires both conditions to be true to return true, while the ||" operator requires only one of the conditions to be true to return true. The &&" operator is used to check if both conditions are true, and the ||" operator is used to check if at least one of the conditions is true.
 
 
  (what is &&)
 
- The "&&" operator (also known as the logical "and" operator) is a logical operator in JavaScript that is used to combine multiple conditions and returns true only if all the conditions are true.
+ The &&" operator (also known as the logical "and" operator) is a logical operator in JavaScript that is used to combine multiple conditions and returns true only if all the conditions are true.
 
 It evaluates the conditions on its left and right side and only returns true if both of them are true. If any of the conditions is false, the whole expression evaluates to false.
 
