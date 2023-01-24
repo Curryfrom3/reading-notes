@@ -48,11 +48,11 @@ This website is a collection of my reading notes documenting my learning
 
 ## Code 201 - Foundations of Software Development
 
-[Reading 1](class201/lesson1.md)
+[Reading 1](class201/class-01.md)
 
-[Reading 2](class201/lesson2.md)
+[Reading 2](class201/class-02.md)
 
-[Reading 3](class201/lesson3.md)
+[Reading 3](class201/class-03.md)
 
 [Reading 4](class201/lesson4.md)
 
