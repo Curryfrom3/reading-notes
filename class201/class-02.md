@@ -9,21 +9,21 @@ Semantic elements are HTML tags that provide a clear meaning and context to the 
 
 They help to indicate the structure and hierarchy of the content, such as headings, paragraphs, lists, and links.
 
-For example, using a <header> tag to indicate the main header of a webpage, a <nav> tag to indicate the navigation menu, and <article> tag to indicate a self-contained piece of content, and <footer> tag to indicate the footer of a webpage.
+For example, using a < header> tag to indicate the main header of a webpage, a < nav> tag to indicate the navigation menu, and < article> tag to indicate a self-contained piece of content, and < footer> tag to indicate the footer of a webpage.
 
 Using semantic elements also makes the webpage more accessible for users with disabilities, as it allows screen readers and other assistive technologies to understand the structure of the page and to navigate the content more easily.
 
 ### How many levels of headings are there in HTML?
 
-in HTML, there are six levels of headings, which are represented by the <h1> to <h6> tags.
+in HTML, there are six levels of headings, which are represented by the < h1> to < h6> tags.
 
- the importance of the headings decreases as the number increases, meaning that <h1> is the most important heading and <h6> the least.
+ the importance of the headings decreases as the number increases, meaning that < h1> is the most important heading and < h6> the least.
 
-### What are some uses for the <sup> and <sub> elements?
+### What are some uses for the < sup> and < sub> elements?
 
-<sup> (superscript) and <sub> (subscript) elements in HTML are used to indicate text that should be displayed as superscript or subscript.
+< sup> (superscript) and < sub> (subscript) elements in HTML are used to indicate text that should be displayed as superscript or subscript.
 
-Some common uses for the <sup> element include:
+Some common uses for the < sup> element include:
 
 Footnotes or citations, where the superscript number or symbol is used to indicate the corresponding 
 
@@ -39,7 +39,7 @@ Units of measurement, where the superscript is used to indicate the unit of meas
 value.
 
 
-ome common uses for the <sub> element include:
+ome common uses for the < sub> element include:
 
 Mathematical or scientific notation, where the subscript is used to indicate the element of a chemical 
 
@@ -53,11 +53,11 @@ Typographical conventions, where the subscript is used to indicate small letters
 
 manuscript.
 
-### When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
+### When using the < abbr> element, what attribute must be added to provide the full expansion of the term?
 
-When using the <abbr> element in HTML, the "title" attribute must be added to provide the full expansion of the term.
+When using the < abbr> element in HTML, the "title" attribute must be added to provide the full expansion of the term.
 
-The <abbr> element is used to indicate an abbreviation or acronym and the "title" attribute is used to 
+The < abbr> element is used to indicate an abbreviation or acronym and the "title" attribute is used to 
 
 provide the full expansion of the term.
 
@@ -66,19 +66,19 @@ provide the full expansion of the term.
 
 ### What are ways we can apply CSS to our HTML?
 
-inline styling: <p style="color: blue;">This is a blue paragraph.</p>
+inline styling: < p style="color: blue;">This is a blue paragraph.< /p>
 
-Internal styling: This method involves placing CSS styles within the <head> section of an HTML document using a <style> tag. 
+Internal styling: This method involves placing CSS styles within the < head> section of an HTML document using a < style> tag. 
 
-<head>
-  <style>
+< head>
+  < style>
     p {
       color: blue;
     }
-  </style>
-</head>
+  < /style>
+< /head>
 
-External styling: This method involves creating a separate CSS file with a .css extension and linking to it in the HTML document using the <link> tag within the <head> section. 
+External styling: This method involves creating a separate CSS file with a .css extension and linking to it in the HTML document using the < link> tag within the < head> section. 
 
 ### Why should we avoid using inline styles?
 
